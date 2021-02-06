@@ -1,0 +1,1 @@
+call scale_display "{UP}"

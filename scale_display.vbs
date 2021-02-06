@@ -1,5 +1,5 @@
 Dim wait
-wait = 1000
+wait = 500
 
 WScript.Echo "Scale Display: " + WScript.Arguments(0)
 
