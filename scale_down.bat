@@ -1,1 +1,1 @@
-call scale_display "{UP}"
+call %~dp0/scale_display "{UP}"

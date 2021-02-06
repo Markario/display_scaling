@@ -1,7 +1,7 @@
 @ECHO OFF
 
 explorer ms-settings:display
-ping -n 2 127.0.0.1 > nul
+@REM ping -n 2 127.0.0.1 > nul
 
 :: Fetch scale command
 set "param=%~1"
