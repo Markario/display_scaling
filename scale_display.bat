@@ -11,5 +11,5 @@ set /p "param=Enter scale param: "
 :paramCheck
 if "%param%"=="" goto :paramPrompt
 
-CSCRIPT //nologo "C:\Users\markario\Documents\Utility\display_scaling\scale_display.vbs" %param%
+CSCRIPT //nologo %~dp0/scale_display.vbs %param%
 EXIT

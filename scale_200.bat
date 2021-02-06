@@ -1,1 +1,1 @@
-call scale_display 20
+call %~dp0/scale_display 20
